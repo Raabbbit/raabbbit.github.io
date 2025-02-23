@@ -1,4 +1,4 @@
-name: 肖航课题组  Xiao Research Group
+name: god of J
 url: https://xiaohang007.github.io/
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
@@ -34,9 +34,9 @@ collections:
 
 # Navigation bar links.
 navigation:
-  - title: 主页 Home
+  - title: niubi Home
     link: /
-  - title: 科研 Research
+  - title: nnnn Research
     link: /research.html
   - title: 论文 Publications
     link: /publications.html
